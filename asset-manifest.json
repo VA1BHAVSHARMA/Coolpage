@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/Coolpage/static/css/main.978277ce.css",
+    "main.js": "/Coolpage/static/js/main.90cf4b95.js",
+    "static/media/SpaceGrotesk-VariableFont_wght.ttf": "/Coolpage/static/media/SpaceGrotesk-VariableFont_wght.1036357b9651eff7d3dd.ttf",
+    "static/media/logo_V.png": "/Coolpage/static/media/logo_V.4694060a6f23b0777edd.png",
+    "static/media/instagram.png": "/Coolpage/static/media/instagram.e719d8b29f452a16302d.png",
+    "static/media/twitter.png": "/Coolpage/static/media/twitter.e58e4997ef85cbd7054c.png",
+    "static/media/Grosball.otf": "/Coolpage/static/media/Grosball.60895f82b6ba17a92c65.otf",
+    "static/media/layered-waves-haikei.svg": "/Coolpage/static/media/layered-waves-haikei.91c200c43887bd385ac8.svg",
+    "static/media/stacked-waves-haikei.svg": "/Coolpage/static/media/stacked-waves-haikei.c68e635044afc9405e4c.svg",
+    "static/media/stacked-steps-haikei.svg": "/Coolpage/static/media/stacked-steps-haikei.9ff40fd74ea51319b057.svg",
+    "index.html": "/Coolpage/index.html",
+    "main.978277ce.css.map": "/Coolpage/static/css/main.978277ce.css.map",
+    "main.90cf4b95.js.map": "/Coolpage/static/js/main.90cf4b95.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.978277ce.css",
+    "static/js/main.90cf4b95.js"
+  ]
+}
