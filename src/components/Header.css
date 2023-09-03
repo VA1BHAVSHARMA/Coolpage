@@ -1,0 +1,55 @@
+.header{
+    height: 50px;
+    background-color: #514538;
+    color: azure;
+    display: flex;
+    justify-content: space-around;
+    padding: 10px;
+}
+
+.logo_img{
+    position: relative;
+    height: 70px;
+    left: 10vw;
+    top: -8px;
+}
+
+.logo{
+    display: flex;
+    flex: 2;
+}
+
+.points{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    flex: 1;
+    width: 30%;
+    text-decoration: none;
+    list-style: none;
+    padding-right: 70px;
+}
+
+.h_a:before,
+.h_a{
+    position: relative;
+    cursor: pointer;
+    text-decoration: none;
+    color: azure;
+    letter-spacing: 0.5px;
+    padding: 10px;
+    font-size: 18px;
+}
+.h_a:after{
+    content: "";
+    position: absolute;
+    background-color: #ffa500;
+    height: 3px;
+    width: 0;
+    left: 0;
+    bottom: -5px;
+    transition: 0.3s;
+}
+.h_a:hover:after{
+    width: 100%;
+}
