@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Coolpage/static/css/main.978277ce.css",
-    "main.js": "/Coolpage/static/js/main.90cf4b95.js",
+    "main.css": "/Coolpage/static/css/main.f24955b0.css",
+    "main.js": "/Coolpage/static/js/main.8026d9ab.js",
     "static/media/SpaceGrotesk-VariableFont_wght.ttf": "/Coolpage/static/media/SpaceGrotesk-VariableFont_wght.1036357b9651eff7d3dd.ttf",
     "static/media/logo_V.png": "/Coolpage/static/media/logo_V.4694060a6f23b0777edd.png",
     "static/media/instagram.png": "/Coolpage/static/media/instagram.e719d8b29f452a16302d.png",
@@ -11,11 +11,11 @@
     "static/media/stacked-waves-haikei.svg": "/Coolpage/static/media/stacked-waves-haikei.c68e635044afc9405e4c.svg",
     "static/media/stacked-steps-haikei.svg": "/Coolpage/static/media/stacked-steps-haikei.9ff40fd74ea51319b057.svg",
     "index.html": "/Coolpage/index.html",
-    "main.978277ce.css.map": "/Coolpage/static/css/main.978277ce.css.map",
-    "main.90cf4b95.js.map": "/Coolpage/static/js/main.90cf4b95.js.map"
+    "main.f24955b0.css.map": "/Coolpage/static/css/main.f24955b0.css.map",
+    "main.8026d9ab.js.map": "/Coolpage/static/js/main.8026d9ab.js.map"
   },
   "entrypoints": [
-    "static/css/main.978277ce.css",
-    "static/js/main.90cf4b95.js"
+    "static/css/main.f24955b0.css",
+    "static/js/main.8026d9ab.js"
   ]
 }
